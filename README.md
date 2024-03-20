@@ -11,8 +11,8 @@ To make implementation of sliding window protocol
 ## PROGRAM
 
 ~~~
-NAME : VIDHYADHARAN R
-REG NO : 212222110053
+NAME : S VAISHNAV NANDA
+REG NO : 212222240112
 ~~~
 # CLIENT:
 ```
